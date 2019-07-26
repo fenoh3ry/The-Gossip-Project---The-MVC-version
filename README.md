@@ -2,9 +2,9 @@
 
 # Instruction
 
--Clone Ce Git
--Initialiser "bundle install" dans votre Terminal
--Amusez vous avec mon code en jouant "ruby app.rb"
+--Clone Ce Git
+--Initialiser "bundle install" dans votre Terminal
+--Amusez vous avec mon code en jouant "ruby app.rb"
 
 #TheHackingProject5 
 
