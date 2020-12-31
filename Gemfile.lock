@@ -41,7 +41,7 @@ GEM
     mini_portile2 (2.4.0)
     multi_json (1.13.1)
     multipart-post (2.1.1)
-    nokogiri (1.10.3)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     open_uri_redirections (0.2.1)
     os (1.0.1)
